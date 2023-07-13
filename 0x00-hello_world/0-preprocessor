@@ -1,0 +1,3 @@
+#!/bin/bash
+CFILE="Hello World.c"
+gcc -E "$CFILE" -o c
