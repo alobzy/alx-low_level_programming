@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - a program that assigns a random number to the variable n each time it is executed
+ * main - The program assigns a random number to a variable n each time it is executed
 *
 * Return:0 (Success)
 */
